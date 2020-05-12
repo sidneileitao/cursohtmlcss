@@ -1,0 +1,39 @@
+body {
+   background-image: url("../images/D7XBTiUWsAA88jK.jpeg");
+   background-size: auto 100vh;
+   height: 100vh;
+   font-family: "Raleway";
+}
+
+.menu {
+   background-color: #13517A;
+   letter-spacing: 0.3em;
+}
+
+.menu li {
+   list-style: none;
+}
+
+.menu ul {
+   display: flex;
+   justify-content: space-between;
+}
+
+a {
+   text-decoration: none;
+   color: white;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+.site-subtitle,.site-title{
+   text-align: center;
+   color: whitesmoke;
+   letter-spacing: 0.3em;
+}
+
+.site-subtitle{
+   letter-spacing: 0.5em;
+}
